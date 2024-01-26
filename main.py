@@ -3,7 +3,8 @@
  Author: Tiliczki Tibor
  Copyright: 2024, Tiliczki Tibor
  Group: Szoft II-1-E
- Date: 2024-01-26* Github: https://github.com/tilitihub/Nobel.git
+ Date: 2024-01-26 
+ Github: https://github.com/tilitihub/Nobel.git
  Licenc: GNU GPL
 """
 import csv
